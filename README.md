@@ -1,2 +1,1 @@
-# hanna-benchmark-asg
-Of Human Criteria and Automatic Metrics: A Benchmark of the Evaluation of Story Generation
+# Of Human Criteria and Automatic Metrics: A Benchmark of the Evaluation of Story Generation (Chhun et al., 2022)
