@@ -83,7 +83,8 @@ TO BE ADDED SOON
 - [TD-VAE](https://arxiv.org/abs/2109.06807) (Wilmot et al., 2021)
   
  ### Libraries
-[RankingNLPSystems](https://github.com/PierreColombo/RankingNLPSystems) (Colombo et al., 2022)
+- [RankingNLPSystems](https://github.com/PierreColombo/RankingNLPSystems) (Colombo et al., 2022)
+- [nlp-williams](https://github.com/inmoonlight/nlp-williams/) (Moon et al., 2019)
 
 ### Funding
 This work was granted access to the HPC resources of IDRIS under the allocation 2022-101838 made by GENCI.
