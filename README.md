@@ -2,7 +2,7 @@
 
 Resources for the paper "*Of Human Criteria and Automatic Metrics*: A Benchmark of the Evaluation of Story Generation" accepted in COLING 2022.
 
-Authors: Cyril Chhun, [Pierre Colombo](https://pierrecolombo.github.io/), [Fabian Suchanek](https://www.suchanek.name/) and [Chloé Clavel](https://clavel.wp.imt.fr/).
+Authors: [Cyril Chhun](https://lashoun.github.io/), [Pierre Colombo](https://pierrecolombo.github.io/), [Fabian Suchanek](https://www.suchanek.name/) and [Chloé Clavel](https://clavel.wp.imt.fr/).
 
 ## Table of contents
 1. [Updates](https://github.com/lashoun/hanna-benchmark-asg#updates)
