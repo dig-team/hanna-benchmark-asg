@@ -63,7 +63,16 @@ If you do not plan to run the cells of those sections, simply comment the corres
 ## Citation
 
 ```
-TO BE ADDED SOON
+@misc{https://doi.org/10.48550/arxiv.2208.11646,
+  doi = {10.48550/ARXIV.2208.11646},
+  url = {https://arxiv.org/abs/2208.11646},
+  author = {Chhun, Cyril and Colombo, Pierre and Clavel, Chloé and Suchanek, Fabian M.},
+  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences},
+  title = {Of Human Criteria and Automatic Metrics: A Benchmark of the Evaluation of Story Generation},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
 ```
 
 ## Acknowledgements
