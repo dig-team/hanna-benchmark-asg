@@ -56,7 +56,7 @@ The code was tested with Python 3.9.0. You can install the required packages wit
 ```
 pip install -r requirements.txt
 ```
-You will also need the [`utils.py` file](https://raw.githubusercontent.com/PierreColombo/RankingNLPSystems/main/utils.py) from the [RankingNLPSystems](https://github.com/PierreColombo/RankingNLPSystems) repository and the [`williams.py` file](https://raw.githubusercontent.com/inmoonlight/nlp-williams/master/williams.py) from the [nlp-williams](https://github.com/inmoonlight/nlp-williams/) repository for the `Rankings DFs` and `Williams` sections of the notebook respectively.
+You will also need the [`utils.py` file](https://raw.githubusercontent.com/PierreColombo/RankingNLPSystems/main/utils.py) from the [RankingNLPSystems](https://github.com/PierreColombo/RankingNLPSystems) repository and the [`williams.py` file](https://raw.githubusercontent.com/inmoonlight/nlp-williams/master/williams.py) from the [nlp-williams](https://github.com/inmoonlight/nlp-williams/) repository for the `Rankings DFs` and `Williams` sections of the notebook respectively. We cannot include them in the repository for licensing reasons.
 
 If you do not plan to run the cells of those sections, simply comment the corresponding imports in the first cell.
 
