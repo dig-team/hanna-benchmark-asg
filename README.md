@@ -77,6 +77,8 @@ If you do not plan to run the cells of those sections, simply comment the corres
 
 ## Acknowledgements
 
+We thank Yejin Choi, Richard Bai, Le Fang, Jian Guan, Hannah Rashkin, David Wilmot and Eden Bensaid for answering to our requests for ASG data.
+
 ### Dataset
 [WritingPrompts](https://github.com/pytorch/fairseq/tree/master/examples/stories) (Fan et al., 2018)
 
@@ -96,7 +98,7 @@ If you do not plan to run the cells of those sections, simply comment the corres
 - [nlp-williams](https://github.com/inmoonlight/nlp-williams/) (Moon et al., 2019)
 
 ### Funding
-This work was granted access to the HPC resources of IDRIS under the allocation 2022-101838 made by GENCI.
+This work was granted access to the HPC resources of IDRIS under the allocation 2022-101838 made by GENCI and was partially funded by the grant ANR-20-CHIA-0012-01 (“NoRDF”).
 
 Cyril, Fabian and Chloé are members of the [NoRDF project](https://nordf.telecom-paris.fr/en/).
 
