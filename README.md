@@ -63,15 +63,20 @@ If you do not plan to run the cells of those sections, simply comment the corres
 ## Citation
 
 ```
-@misc{https://doi.org/10.48550/arxiv.2208.11646,
-  doi = {10.48550/ARXIV.2208.11646},
-  url = {https://arxiv.org/abs/2208.11646},
-  author = {Chhun, Cyril and Colombo, Pierre and Clavel, Chloé and Suchanek, Fabian M.},
-  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences},
-  title = {Of Human Criteria and Automatic Metrics: A Benchmark of the Evaluation of Story Generation},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {arXiv.org perpetual, non-exclusive license}
+@inproceedings{chhun-etal-2022-human,
+    title = "Of Human Criteria and Automatic Metrics: A Benchmark of the Evaluation of Story Generation",
+    author = "Chhun, Cyril  and
+      Colombo, Pierre  and
+      Suchanek, Fabian M.  and
+      Clavel, Chlo{\'e}",
+    booktitle = "Proceedings of the 29th International Conference on Computational Linguistics",
+    month = oct,
+    year = "2022",
+    address = "Gyeongju, Republic of Korea",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://aclanthology.org/2022.coling-1.509",
+    pages = "5794--5836",
+    abstract = "Research on Automatic Story Generation (ASG) relies heavily on human and automatic evaluation. However, there is no consensus on which human evaluation criteria to use, and no analysis of how well automatic criteria correlate with them. In this paper, we propose to re-evaluate ASG evaluation. We introduce a set of 6 orthogonal and comprehensive human criteria, carefully motivated by the social sciences literature. We also present HANNA, an annotated dataset of 1,056 stories produced by 10 different ASG systems. HANNA allows us to quantitatively evaluate the correlations of 72 automatic metrics with human criteria. Our analysis highlights the weaknesses of current metrics for ASG and allows us to formulate practical recommendations for ASG evaluation.",
 }
 ```
 
