@@ -1,6 +1,6 @@
 # HANNA Benchmark Repository
 
-Resources for the paper "*Of Human Criteria and Automatic Metrics*: A Benchmark of the Evaluation of Story Generation" accepted in COLING 2022.
+Resources for the paper "[*Of Human Criteria and Automatic Metrics*: A Benchmark of the Evaluation of Story Generation](https://aclanthology.org/2022.coling-1.509/)" accepted in COLING 2022.
 
 Authors: [Cyril Chhun](https://lashoun.github.io/), [Pierre Colombo](https://pierrecolombo.github.io/), [Fabian Suchanek](https://www.suchanek.name/) and [Chloé Clavel](https://clavel.wp.imt.fr/).
 
