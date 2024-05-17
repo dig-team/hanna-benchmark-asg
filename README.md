@@ -1,6 +1,6 @@
 # HANNA Benchmark Repository
 
-Resources for the paper **"Do Language Models Enjoy Their Own Stories? Prompting Large Language Models For Automatic Story Evaluation"**, accepted in TACL, and awaiting publication.
+Resources for the paper **"Do Language Models Enjoy Their Own Stories? Prompting Large Language Models for Automatic Story Evaluation"**, accepted in TACL, and awaiting publication.
 
 Authors: [Cyril Chhun](https://lashoun.github.io/), [Fabian Suchanek](https://www.suchanek.name/) and [Chloé Clavel](https://clavel.wp.imt.fr/).
 
