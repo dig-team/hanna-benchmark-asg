@@ -1,1 +1,8 @@
 **/.ipynb_checkpoints
+*.png
+figures/
+figures2/
+__pycache__/
+backup/
+utils.py
+williams.py
