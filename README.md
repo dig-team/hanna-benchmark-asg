@@ -1,10 +1,10 @@
 # HANNA Benchmark Repository
 
-Resources for the paper **"Do Language Models Enjoy Their Own Stories? Prompting Large Language Models for Automatic Story Evaluation"**, accepted in TACL, and awaiting publication.
+Resources for the paper "[**Do Language Models Enjoy Their Own Stories? Prompting Large Language Models for Automatic Story Evaluation**](https://doi.org/10.1162/tacl_a_00689)", published in TACL.
 
 Authors: [Cyril Chhun](https://cychhun.github.io/), [Fabian Suchanek](https://www.suchanek.name/) and [Chloé Clavel](https://clavel.wp.imt.fr/).
 
-Note: resources for the paper **"[*Of Human Criteria and Automatic Metrics*: A Benchmark of the Evaluation of Story Generation](https://aclanthology.org/2022.coling-1.509/)"**, accepted in COLING 2022, can be accessed in the `coling` branch [here](https://github.com/dig-team/hanna-benchmark-asg/tree/coling).
+\[Note: resources for the paper **"[*Of Human Criteria and Automatic Metrics*: A Benchmark of the Evaluation of Story Generation](https://aclanthology.org/2022.coling-1.509/)"**, accepted in COLING 2022, can be accessed in the `coling` branch [here](https://github.com/dig-team/hanna-benchmark-asg/tree/coling).\]
 
 ## Table of contents
 1. [Updates](https://github.com/dig-team/hanna-benchmark-asg#updates)
