@@ -70,7 +70,21 @@ If you do not plan to run the cells of this section, simply comment the correspo
 
 ## Citation
 
-Coming soon.
+```
+@article{chhun2024do,
+    author = {Chhun, Cyril and Suchanek, Fabian M. and Clavel, Chlo{\'e}},
+    doi = {10.1162/tacl_a_00689},
+    eprint = {https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl\_a\_00689/2470807/tacl\_a\_00689.pdf},
+    issn = {2307-387X},
+    journal = {Transactions of the Association for Computational Linguistics},
+    pages = {1122--1142},
+    publisher = {MIT Press},
+    title = {Do Language Models Enjoy Their Own Stories? {P}rompting Large Language Models for Automatic Story Evaluation},
+    url = {https://doi.org/10.1162/tacl\_a\_00689},
+    volume = {12},
+    year = {2024}
+}
+```
 
 ## Acknowledgements
 
